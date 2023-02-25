@@ -1,0 +1,16 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1,
+h2,
+h3 {
+    background-color: white;
+    color: black;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
