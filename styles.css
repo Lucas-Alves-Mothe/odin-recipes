@@ -16,7 +16,8 @@ h3 {
 }
 
 body {
-
+    
+    background-image: url("../odin-recipes/images/cook.jpg");
     background-color: white;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
